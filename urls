@@ -1,0 +1,12 @@
+CircleCI
+    https://circleci.com/docs/2.0/first-steps/
+    https://circleci.com/docs/2.0/hello-world/
+    https://github.com/login/oauth/authorize?client_id=78a2ba87f071c28e65bb&redirect_uri=https%3A%2F%2Fcircleci.com%2Fauth%2Fgithub%3Freturn-to%3D%252F&scope=public_repo%2Cuser%3Aemail%2Cread%3Aorg&state=DrUWjDTfb-gLKdlW3zkRCe7h9luJNO89F0moO9ZtP2SYHvIXQSNhsvKRSz6Vj9vl2BSkuZw_R1b3zZIf
+ 
+TravisCI
+    https://docs.travis-ci.com/user/getting-started/
+    https://github.com/login/oauth/authorize?client_id=f244293c729d5066cf27&redirect_uri=https%3A%2F%2Fapi.travis-ci.org%2Fauth%2Fhandshake&scope=read%3Aorg%2Cuser%3Aemail%2Crepo_deployment%2Crepo%3Astatus%2Cwrite%3Arepo_hook&state=2ogUP6AP6J7ilJRbdrAVKg%3A%3A%3Ahttps%3A%2F%2Ftravis-ci.org%2F
+  
+Problem
+    http://plv.colorado.edu/ads/2017-4555-grader
+    https://repl.it/KRo0/2
